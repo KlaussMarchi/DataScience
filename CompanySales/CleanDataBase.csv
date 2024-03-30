@@ -1,0 +1,199 @@
+Nome,Genero,MultiplasLinhas,ServicoInternet,ServicoSegurancaOnline,ServicoBackupOnline,TipoContrato,FormaPagamento,ProtecaoEquipamento,ServicoSuporteTecnico,ServicoStreamingTV,ServicoFilmes,Aposentado,Dependentes,ServicoTelefone,Casado,FaturaDigital,ValorMensal,TotalGasto,Mês de Assinatura,MesesComoCliente,Churn,Mês,Pagamento
+Celio Nunes da Silva,Masculino,Sim,Fibra,Sim,Sim,2 Anos,BoletoEletronico,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,122.0,122.0,2022-01-23,0,Não,Janeiro,Em Dia
+Klauss Miranda Marchi,Masculino,Não,Fibra,Sim,Não,2 Anos,DebitoAutomatico,Não,Sem Internet,Sim,Não,Não,Não,Não,Não,Não,82.0,82.0,2022-01-23,0,Não,Janeiro,Em Dia
+Isabella Braga,Masculino,Sim,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,74.95,2869.85,2017-06-05,38,Sim,Junho,Atrasado
+Gael Teixeira,Feminino,Nao,Fibra,Nao,Sim,Mensal,CartaoCredito,Sim,Nao,Sim,Nao,0,Nao,Sim,Nao,Sim,55.9,238.5,2021-01-25,4,Nao,Janeiro,Atrasado
+Manuela Teixeira,Feminino,Sim,Fibra,Nao,Nao,Mensal,DebitoAutomatico,Nao,Nao,Nao,Nao,1,Nao,Sim,Sim,Sim,53.45,119.5,2018-10-21,2,Nao,Outubro,Atrasado
+Isadora Macedo,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,49.85,3370.2,2019-02-09,70,Nao,Fevereiro,Atrasado
+Benício Ribeiro,Masculino,Nao,DSL,Sim,Nao,Mensal,BoletoEletronico,Sim,Nao,Nao,Nao,0,Nao,Sim,Nao,Nao,90.65,2989.6,2020-08-06,33,Nao,Agosto,Atrasado
+Maite Guimarães,Feminino,SemTelefone,DSL,Sim,Nao,2 anos,DebitoAutomatico,Sim,Sim,Nao,Sim,0,Nao,Nao,Sim,Sim,24.9,24.9,2021-04-18,1,Nao,Abril,Atrasado
+Maria Alice Teixeira,Feminino,Sim,Fibra,Sim,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,35.55,1309.15,2018-03-03,39,Nao,Março,Atrasado
+Pedro Henrique Rocha,Feminino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Nao,Nao,Sim,116.5,6382.55,2017-05-15,55,Nao,Maio,Atrasado
+Laura Barros,Masculino,SemTelefone,DSL,Nao,Nao,Anual,BoletoImpresso,Sim,Sim,Nao,Nao,0,Nao,Nao,Nao,Nao,68.75,3482.85,2020-10-29,52,Nao,Outubro,Atrasado
+Guilherme Azevedo,Masculino,Sim,Fibra,Sim,Sim,Mensal,BoletoEletronico,Sim,Sim,Sim,Sim,1,Nao,Sim,Nao,Sim,51.2,1561.5,2018-01-10,30,Sim,Janeiro,Atrasado
+Isaac Campos,Masculino,Nao,DSL,Nao,Sim,Anual,BoletoEletronico,Sim,Sim,Sim,Nao,0,Sim,Sim,Sim,Sim,99.0,6017.9,2016-09-07,60,Nao,Setembro,Atrasado
+Davi Serra,Feminino,SemTelefone,DSL,Nao,Nao,Mensal,CartaoCredito,Nao,Sim,Sim,Sim,0,Sim,Nao,Sim,Nao,54.9,2614.1,2019-09-16,50,Nao,Setembro,Atrasado
+Matheus Magalhães,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Sim,Sim,Sim,1,Nao,Sim,Sim,Sim,109.55,3608.0,2019-11-29,32,Nao,Novembro,Atrasado
+Pedro Henrique Almeida,Masculino,Sim,DSL,Nao,Nao,Anual,DebitoAutomatico,Sim,Nao,Nao,Nao,0,Sim,Sim,Sim,Nao,106.8,5498.8,2020-05-29,51,Nao,Maio,Atrasado
+Helena Costa,Feminino,Sim,Fibra,Sim,Nao,Anual,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Nao,Sim,Nao,Sim,74.3,74.3,2017-12-22,1,Nao,Dezembro,Atrasado
+Davi Correia,Masculino,Sim,Fibra,Nao,Sim,Anual,DebitoAutomatico,Sim,Nao,Sim,Sim,0,Nao,Sim,Sim,Sim,25.6,1673.4,2020-05-30,69,Nao,Maio,Atrasado
+Isadora Serra,Masculino,Nao,Fibra,Nao,Nao,Mensal,BoletoImpresso,Nao,Sim,Nao,Nao,0,Nao,Sim,Nao,Sim,94.2,4186.3,2017-07-10,42,Sim,Julho,Atrasado
+Maria Alice Brasil,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,0,Sim,Sim,Sim,Sim,25.6,1334.5,2018-03-27,52,Nao,Março,Atrasado
+Maria Júlia Bahiense,Masculino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,0,Nao,Nao,Sim,Nao,107.6,6912.7,2019-09-01,62,Nao,Setembro,Atrasado
+Pedro Cardoso,Masculino,Sim,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Nao,Nao,19.55,1463.45,2019-09-29,72,Nao,Setembro,Atrasado
+Gabriel Azevedo,Masculino,Sim,Fibra,Nao,Nao,2 anos,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Nao,Sim,Sim,Sim,96.2,3183.4,2018-12-16,32,Sim,Dezembro,Atrasado
+Miguel Siqueira,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,69.65,69.65,2021-08-02,1,Sim,Agosto,Atrasado
+Theo Campos,Masculino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Sim,Sim,Sim,0,Nao,Sim,Nao,Sim,78.5,5602.25,2020-03-04,72,Nao,Março,Atrasado
+Maria Júlia Braga,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,1,Nao,Sim,Nao,Sim,45.1,45.1,2021-01-28,1,Sim,Janeiro,Atrasado
+Anthony Souza,Feminino,Sim,Fibra,Sim,Nao,2 anos,DebitoAutomatico,Nao,Nao,Nao,Nao,1,Nao,Sim,Sim,Nao,25.75,25.75,2016-01-03,1,Nao,Janeiro,Atrasado
+Maria Alice Guimarães,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,1,Nao,Sim,Nao,Nao,104.1,541.9,2017-07-20,5,Sim,Julho,Atrasado
+Heloísa Barros,Feminino,Sim,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,104.75,6536.5,2016-11-04,63,Nao,Novembro,Atrasado
+Nicolas Macedo,Masculino,Sim,Fibra,Nao,Sim,Mensal,BoletoImpresso,Sim,Nao,Sim,Sim,0,Nao,Sim,Nao,Nao,81.35,5398.6,2021-03-22,67,Nao,Março,Atrasado
+Lívia Pedreira,Masculino,Sim,Fibra,Nao,Sim,2 anos,DebitoAutomatico,Sim,Nao,Sim,Sim,0,Nao,Sim,Nao,Sim,96.35,3915.4,2018-10-11,40,Nao,Outubro,Atrasado
+Maria Júlia Rocha,Masculino,Nao,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Nao,Sim,Sim,0,Sim,Sim,Sim,Nao,93.55,6069.25,2019-08-10,65,Nao,Agosto,Atrasado
+Maria Luiza Castro,Feminino,Sim,Fibra,Nao,Sim,Mensal,CartaoCredito,Sim,Nao,Sim,Nao,0,Sim,Sim,Sim,Sim,19.7,301.55,2021-10-12,16,Nao,Outubro,Atrasado
+Maria Eduarda Siqueira,Masculino,Sim,Fibra,Sim,Nao,Anual,BoletoEletronico,Nao,Sim,Nao,Sim,0,Nao,Sim,Nao,Nao,69.1,3255.35,2019-12-19,46,Nao,Dezembro,Atrasado
+Samuel Ribeiro,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,35.65,425.1,2019-06-13,11,Nao,Junho,Atrasado
+Gael Almeida,Feminino,Sim,DSL,Nao,Nao,Anual,CartaoCredito,Sim,Sim,Nao,Sim,1,Nao,Sim,Nao,Sim,99.4,5025.0,2018-07-12,49,Nao,Julho,Atrasado
+Davi Bahiense,Masculino,SemTelefone,DSL,Nao,Sim,Mensal,BoletoEletronico,Nao,Sim,Nao,Nao,0,Nao,Nao,Nao,Sim,54.4,3723.65,2019-05-13,68,Nao,Maio,Atrasado
+Gustavo Ribeiro,Feminino,Nao,Fibra,Nao,Sim,Mensal,BoletoEletronico,Sim,Nao,Sim,Sim,0,Nao,Sim,Sim,Nao,19.3,185.2,2019-08-28,10,Nao,Agosto,Atrasado
+Joaquim Queirós,Feminino,SemTelefone,DSL,Sim,Nao,Anual,BoletoEletronico,Sim,Nao,Sim,Sim,0,Nao,Nao,Sim,Sim,83.8,163.7,2016-12-16,2,Nao,Dezembro,Atrasado
+Eloa Teixeira,Feminino,Nao,Nao,SemInternet,SemInternet,Anual,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,68.95,351.5,2020-05-03,5,Nao,Maio,Atrasado
+ Barros,Feminino,Nao,Fibra,Nao,Sim,Mensal,DebitoAutomatico,Nao,Nao,Sim,Nao,1,Nao,Sim,Nao,Sim,62.85,3419.5,2017-07-02,53,Nao,Julho,Atrasado
+Gael Matos,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,0,Nao,Sim,Sim,Sim,110.45,0.0,2019-11-13,54,Nao,Novembro,Atrasado
+Rafael Costa,Masculino,Nao,DSL,Sim,Sim,Anual,CartaoCredito,Nao,Sim,Nao,Nao,0,Sim,Sim,Nao,Nao,45.3,196.95,2020-06-09,4,Sim,Junho,Atrasado
+Lorena Queirós,Masculino,Sim,Fibra,Nao,Sim,2 anos,BoletoEletronico,Sim,Sim,Sim,Sim,1,Nao,Sim,Sim,Sim,75.65,1146.65,2017-01-10,15,Sim,Janeiro,Atrasado
+Maria Júlia Ribeiro,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,19.85,193.05,2018-11-18,10,Nao,Novembro,Atrasado
+Heitor Magalhães,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,1,Nao,Sim,Nao,Nao,55.3,196.15,2021-11-24,3,Sim,Novembro,Atrasado
+Arthur Almeida,Masculino,Nao,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,24.75,1836.9,2018-12-15,71,Nao,Dezembro,Atrasado
+Davi Bahiense,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,54.75,445.85,2016-05-26,8,Nao,Maio,Atrasado
+Lorenzo Correia,Feminino,Sim,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Nao,94.0,94.0,2016-06-01,1,Sim,Junho,Atrasado
+Valentina Campos,Masculino,Nao,DSL,Nao,Sim,Mensal,BoletoImpresso,Sim,Nao,Nao,Nao,0,Nao,Sim,Sim,Sim,110.3,6997.3,2021-05-30,64,Nao,Maio,Atrasado
+Gabriel Almeida,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,1,Nao,Sim,Nao,Sim,18.8,1094.35,2017-01-13,57,Nao,Janeiro,Atrasado
+Alice Braga,Feminino,Sim,Fibra,Sim,Sim,2 anos,DebitoAutomatico,Nao,Sim,Sim,Sim,0,Sim,Sim,Sim,Nao,100.8,100.8,2016-05-05,1,Sim,Maio,Atrasado
+Lívia Fontes,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,60.0,1259.35,2020-05-01,20,Nao,Maio,Atrasado
+Maria Clara Costa,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Sim,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,66.05,1652.4,2017-03-12,26,Nao,Março,Atrasado
+Isaac Campos,Feminino,Nao,DSL,Nao,Sim,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,1,Nao,Sim,Sim,Sim,79.75,159.4,2016-09-18,2,Sim,Setembro,Atrasado
+João Pedro Pedreira,Feminino,Sim,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Sim,Nao,Sim,1,Nao,Sim,Nao,Sim,94.8,3131.55,2020-10-20,32,Nao,Outubro,Atrasado
+Heitor Guimarães,Feminino,Nao,Fibra,Nao,Nao,Mensal,DebitoAutomatico,Nao,Nao,Nao,Sim,1,Nao,Sim,Nao,Sim,25.45,134.75,2016-10-12,5,Nao,Outubro,Atrasado
+Pedro Magalhães,Masculino,Nao,Fibra,Sim,Sim,Anual,BoletoImpresso,Sim,Nao,Nao,Sim,0,Sim,Sim,Sim,Nao,111.15,7737.55,2017-05-26,70,Nao,Maio,Atrasado
+Sophia Rocha,Feminino,Sim,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,55.25,1715.65,2016-06-10,31,Sim,Junho,Atrasado
+Valentina Serra,Feminino,Sim,Fibra,Sim,Sim,2 anos,BoletoImpresso,Sim,Nao,Sim,Sim,0,Nao,Sim,Nao,Sim,59.5,415.95,2018-02-19,7,Sim,Fevereiro,Atrasado
+Laura Cardoso,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Sim,Sim,Nao,Nao,0,Nao,Sim,Nao,Sim,25.35,25.35,2016-06-01,1,Nao,Junho,Atrasado
+Maria Clara Guimarães,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Sim,Sim,Nao,0,Nao,Sim,Nao,Sim,98.55,1842.8,2018-01-21,20,Sim,Janeiro,Atrasado
+Maria Júlia Pedreira,Masculino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Nao,Nao,Nao,61.2,2021.2,2017-01-29,35,Nao,Janeiro,Atrasado
+Maria Eduarda Fontes,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Sim,Nao,Sim,Sim,1,Nao,Sim,Nao,Sim,60.9,414.1,2021-09-08,6,Nao,Setembro,Atrasado
+Maria Júlia Magalhães,Masculino,Nao,DSL,Sim,Sim,Anual,BoletoImpresso,Sim,Nao,Nao,Nao,0,Nao,Sim,Nao,Nao,74.55,5430.65,2020-12-12,72,Nao,Dezembro,Atrasado
+Maria Júlia Almeida,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Sim,Nao,Sim,Nao,0,Nao,Sim,Nao,Nao,19.65,244.8,2018-09-25,13,Nao,Setembro,Atrasado
+Rafael Souza,Feminino,Sim,DSL,Sim,Sim,2 anos,BoletoImpresso,Nao,Sim,Sim,Nao,0,Sim,Sim,Sim,Nao,48.75,179.85,2018-03-30,4,Nao,Março,Atrasado
+Samuel Magalhães,Feminino,Nao,Nao,SemInternet,SemInternet,Anual,BoletoEletronico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,19.15,1177.05,2019-01-07,63,Nao,Janeiro,Atrasado
+Valentina Guimarães,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Sim,34.25,139.35,2016-05-05,3,Sim,Maio,Atrasado
+Lívia Correia,Masculino,Nao,DSL,Sim,Sim,2 anos,BoletoImpresso,Sim,Sim,Sim,Sim,0,Nao,Sim,Sim,Sim,80.7,5676.0,2016-12-20,71,Nao,Dezembro,Atrasado
+João Pedro Souza,Feminino,SemTelefone,DSL,Sim,Nao,Mensal,BoletoImpresso,Nao,Sim,Nao,Nao,0,Nao,Nao,Nao,Nao,19.45,340.85,2020-01-09,15,Nao,Janeiro,Atrasado
+Manuela Pedreira,Feminino,Sim,Fibra,Sim,Nao,2 anos,CartaoCredito,Nao,Nao,Nao,Nao,1,Nao,Sim,Sim,Sim,19.7,599.25,2016-11-11,30,Nao,Novembro,Atrasado
+Heitor Pedreira,Masculino,Nao,Nao,SemInternet,SemInternet,Mensal,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Sim,83.2,2032.3,2021-10-19,23,Nao,Outubro,Atrasado
+João Miguel Guimarães,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,19.85,183.15,2020-12-24,9,Nao,Dezembro,Atrasado
+Heloísa Queirós,Feminino,Nao,Fibra,Nao,Sim,Mensal,DebitoAutomatico,Sim,Sim,Nao,Nao,0,Nao,Sim,Nao,Nao,19.15,638.0,2018-01-23,35,Nao,Janeiro,Atrasado
+Júlia Matos,Masculino,Nao,Nao,SemInternet,SemInternet,Anual,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,1,Nao,Sim,Sim,Nao,54.85,355.1,2017-01-14,6,Nao,Janeiro,Atrasado
+Joaquim Rocha,Masculino,Nao,Nao,SemInternet,SemInternet,Anual,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,75.05,75.05,2020-04-02,1,Sim,Abril,Atrasado
+Maria Júlia Braga,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Nao,0,Sim,Sim,Sim,Nao,25.1,1857.85,2020-12-11,72,Nao,Dezembro,Atrasado
+Benício Bahiense,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,84.35,3858.05,2019-12-23,45,Nao,Dezembro,Atrasado
+Maria Luiza Souza,Feminino,Sim,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,89.75,608.8,2018-04-21,7,Sim,Abril,Atrasado
+Laura Brasil,Masculino,Nao,DSL,Sim,Sim,2 anos,BoletoImpresso,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Sim,48.4,3442.8,2020-10-14,70,Nao,Outubro,Atrasado
+Theo Bahiense,Masculino,Nao,Fibra,Nao,Sim,Mensal,BoletoEletronico,Nao,Sim,Sim,Nao,0,Sim,Sim,Sim,Sim,19.9,1110.05,2018-09-13,53,Nao,Setembro,Atrasado
+Rafael Fontes,Masculino,SemTelefone,DSL,Sim,Nao,2 anos,DebitoAutomatico,Sim,Sim,Nao,Sim,0,Nao,Nao,Nao,Nao,51.75,201.1,2021-02-06,4,Sim,Fevereiro,Atrasado
+Anthony Teixeira,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Nao,92.4,6786.1,2021-12-24,72,Nao,Dezembro,Em Dia
+Maria Júlia Souza,Masculino,Sim,DSL,Nao,Nao,Mensal,CartaoCredito,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Nao,45.25,3139.8,2018-12-22,72,Nao,Dezembro,Atrasado
+Heloísa Teixeira,Feminino,Sim,DSL,Sim,Sim,2 anos,BoletoEletronico,Sim,Sim,Sim,Sim,0,Nao,Sim,Sim,Sim,94.8,1563.9,2016-05-02,17,Nao,Maio,Atrasado
+Nicolas Magalhães,Masculino,SemTelefone,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Nao,Nao,0,Sim,Nao,Sim,Nao,69.85,515.45,2021-12-01,7,Nao,Dezembro,Em Dia
+Gabriel Brasil,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,20.1,221.35,2021-11-26,11,Sim,Novembro,Atrasado
+Laura Azevedo,Feminino,Nao,Fibra,Nao,Nao,Mensal,DebitoAutomatico,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,74.9,147.15,2019-02-20,2,Sim,Fevereiro,Atrasado
+Lorena Brasil,Feminino,Nao,Nao,SemInternet,SemInternet,Mensal,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Nao,Nao,109.9,7624.2,2021-03-05,72,Nao,Março,Atrasado
+Lorena Valle.,Feminino,Sim,Fibra,Nao,Nao,Mensal,CartaoCredito,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Nao,78.0,851.8,2016-06-30,11,Nao,Junho,Atrasado
+Manuela Ribeiro,Feminino,Nao,Fibra,Sim,Sim,2 anos,BoletoEletronico,Sim,Sim,Sim,Sim,0,Nao,Sim,Nao,Sim,91.4,449.75,2019-06-27,5,Sim,Junho,Atrasado
+Lorena Pedreira,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoImpresso,Sim,Nao,Nao,Nao,0,Sim,Sim,Nao,Sim,74.95,308.7,2017-06-21,4,Sim,Junho,Atrasado
+Anthony Castro,Masculino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,1,Nao,Sim,Nao,Sim,50.0,0.0,2021-09-14,30,Nao,Setembro,Atrasado
+Maria Clara Barros,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,1,Nao,Sim,Sim,Nao,20.9,202.3,2017-11-23,11,Nao,Novembro,Atrasado
+Arthur Matos,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Sim,Nao,Nao,Nao,0,Nao,Sim,Sim,Sim,49.8,836.35,2019-01-06,17,Nao,Janeiro,Atrasado
+Laura Azevedo,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,56.25,1765.95,2021-11-14,34,Nao,Novembro,Em Dia
+Bernardo Magalhães,Masculino,SemTelefone,DSL,Nao,Sim,Mensal,BoletoImpresso,Nao,Nao,Sim,Sim,0,Nao,Nao,Sim,Sim,30.4,78.65,2016-01-14,2,Sim,Janeiro,Atrasado
+Henrique Queirós,Feminino,SemTelefone,DSL,Nao,Sim,Mensal,BoletoEletronico,Sim,Nao,Sim,Sim,1,Nao,Nao,Nao,Sim,19.1,1001.5,2017-12-21,55,Nao,Dezembro,Atrasado
+Theo Pedreira,Feminino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoEletronico,Sim,Nao,Nao,Nao,1,Nao,Nao,Nao,Sim,59.9,287.85,2019-11-20,5,Nao,Novembro,Atrasado
+Gabriel Valle.,Masculino,Nao,Nao,SemInternet,SemInternet,Anual,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Nao,Nao,20.0,196.35,2020-06-28,11,Nao,Junho,Atrasado
+Benjamin Serra,Feminino,Nao,DSL,Sim,Sim,Mensal,CartaoCredito,Nao,Sim,Nao,Nao,1,Nao,Sim,Nao,Nao,79.6,79.6,2017-11-13,1,Sim,Novembro,Atrasado
+Nicolas Costa,Feminino,Nao,Nao,SemInternet,SemInternet,Anual,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Sim,19.45,1303.5,2016-05-17,70,Nao,Maio,Atrasado
+Bernardo Brasil,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Sim,Sim,Nao,Sim,74.85,156.4,2021-03-17,2,Sim,Março,Atrasado
+Gael Fontes,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Nao,73.85,511.25,2021-11-02,7,Sim,Novembro,Em Dia
+Manuela Pedreira,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,1,Nao,Sim,Nao,Sim,20.2,684.4,2019-02-17,35,Nao,Fevereiro,Atrasado
+Gabriel Cardoso,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,71.1,4299.2,2020-12-09,58,Nao,Dezembro,Atrasado
+ Costa,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,109.2,7711.45,2021-02-21,72,Nao,Fevereiro,Atrasado
+Sophia Braga,Feminino,Sim,DSL,Sim,Sim,Anual,CartaoCredito,Sim,Sim,Nao,Nao,0,Nao,Sim,Nao,Sim,62.65,4375.8,2017-09-25,68,Nao,Setembro,Atrasado
+Henrique Almeida,Feminino,Sim,Fibra,Nao,Sim,2 anos,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Sim,59.45,1507.0,2016-08-20,26,Nao,Agosto,Atrasado
+Enzo Gabriel Matos,Masculino,Nao,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Nao,Nao,0,Sim,Sim,Sim,Nao,45.05,523.1,2017-04-05,12,Nao,Abril,Atrasado
+Alice Siqueira,Masculino,Nao,DSL,Nao,Nao,Anual,CartaoCredito,Nao,Sim,Sim,Nao,0,Nao,Sim,Nao,Nao,60.35,1404.65,2021-01-16,25,Nao,Janeiro,Atrasado
+Lucas Siqueira,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,114.95,8196.4,2021-01-04,72,Nao,Janeiro,Atrasado
+Maria Júlia Barros,Masculino,Sim,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Nao,0,Sim,Sim,Sim,Nao,114.6,7882.5,2020-09-16,70,Nao,Setembro,Atrasado
+Maria Clara Serra,Masculino,Sim,Fibra,Sim,Sim,2 anos,DebitoAutomatico,Sim,Sim,Sim,Sim,1,Sim,Sim,Sim,Sim,50.15,50.15,2021-05-04,1,Sim,Maio,Atrasado
+Samuel Matos,Masculino,Sim,Fibra,Sim,Sim,2 anos,BoletoEletronico,Sim,Sim,Sim,Sim,0,Sim,Sim,Nao,Sim,86.65,2208.75,2019-12-20,26,Nao,Dezembro,Atrasado
+Lucas Valle.,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Sim,Nao,Nao,Nao,1,Sim,Sim,Nao,Sim,65.7,134.35,2016-02-18,2,Sim,Fevereiro,Atrasado
+Arthur Pedreira,Masculino,Sim,Fibra,Sim,Sim,Mensal,CartaoCredito,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,19.9,543.0,2018-11-03,28,Nao,Novembro,Atrasado
+Joaquim Guimarães,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Sim,Sim,0,Sim,Sim,Sim,Nao,19.85,119.3,2019-06-20,6,Nao,Junho,Atrasado
+Alice Braga,Feminino,Nao,Nao,SemInternet,SemInternet,Anual,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,59.75,3624.35,2016-07-26,58,Nao,Julho,Atrasado
+Isabella 9.03 Magalhães,Feminino,Nao,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,45.0,1228.65,2019-04-13,29,Nao,Abril,Atrasado
+João Miguel Siqueira,Feminino,SemTelefone,DSL,Sim,Nao,2 anos,BoletoImpresso,Sim,Sim,Sim,Sim,0,Sim,Nao,Sim,Nao,71.4,1212.1,2020-03-16,16,Nao,Março,Atrasado
+Laura Cardoso,Feminino,SemTelefone,DSL,Sim,Nao,Mensal,BoletoEletronico,Sim,Nao,Nao,Sim,1,Nao,Nao,Sim,Sim,101.0,4388.4,2016-10-01,43,Sim,Outubro,Atrasado
+Valentina Barros,Masculino,Sim,DSL,Nao,Sim,Mensal,DebitoAutomatico,Sim,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,75.4,3865.45,2017-05-09,52,Nao,Maio,Atrasado
+Isaac Castro,Masculino,Sim,Fibra,Nao,Sim,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,118.75,8672.45,2021-10-08,72,Nao,Outubro,Atrasado
+Eloa Bahiense,Masculino,Nao,DSL,Sim,Sim,Anual,BoletoImpresso,Nao,Nao,Sim,Sim,0,Nao,Sim,Sim,Sim,19.45,1378.45,2017-02-14,71,Nao,Fevereiro,Atrasado
+Theo Azevedo,Feminino,Sim,Fibra,Sim,Sim,2 anos,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Sim,20.4,1414.45,2019-08-18,65,Nao,Agosto,Atrasado
+Laura Almeida,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,84.5,3906.7,2021-07-15,49,Nao,Julho,Atrasado
+Eloa Brasil,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Sim,83.8,4331.4,2019-01-14,52,Nao,Janeiro,Atrasado
+Arthur Teixeira,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,20.35,33.2,2017-06-21,2,Sim,Junho,Atrasado
+Benício Barros,Masculino,Nao,Fibra,Nao,Nao,Mensal,CartaoCredito,Sim,Nao,Nao,Sim,0,Nao,Sim,Nao,Sim,109.3,7782.85,2016-03-22,71,Nao,Março,Atrasado
+Maria Eduarda Ribeiro,Masculino,Nao,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,89.4,4869.5,2019-01-01,54,Nao,Janeiro,Atrasado
+Antonella Matos,Masculino,Nao,Fibra,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Nao,76.5,1155.6,2017-08-16,15,Nao,Agosto,Atrasado
+Benjamin Rocha,Masculino,Sim,Fibra,Nao,Nao,Mensal,CartaoCredito,Sim,Nao,Nao,Sim,0,Nao,Sim,Nao,Nao,24.6,190.1,2016-09-04,9,Nao,Setembro,Atrasado
+Samuel Rocha,Feminino,Nao,DSL,Nao,Sim,Mensal,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Nao,105.05,5163.3,2020-09-01,50,Nao,Setembro,Atrasado
+Maria Júlia Correia,Masculino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Nao,Nao,Sim,83.65,1465.75,2018-04-11,19,Sim,Abril,Atrasado
+ Brasil,Masculino,Sim,Fibra,Sim,Nao,2 anos,CartaoCredito,Sim,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,104.45,7349.35,2020-08-13,70,Nao,Agosto,Atrasado
+Matheus Valle.,Masculino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Sim,Sim,Sim,Sim,106.85,7677.4,2020-09-15,72,Nao,Setembro,Atrasado
+Pedro Macedo,Feminino,Sim,Fibra,Nao,Sim,2 anos,DebitoAutomatico,Nao,Sim,Sim,Sim,1,Nao,Sim,Sim,Sim,105.1,5376.4,2018-09-19,52,Nao,Setembro,Atrasado
+Júlia Almeida,Feminino,Sim,Fibra,Sim,Sim,Anual,DebitoAutomatico,Nao,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,46.3,639.45,2018-04-23,15,Nao,Abril,Atrasado
+Lucas Fontes,Masculino,Sim,Fibra,Nao,Sim,Anual,DebitoAutomatico,Sim,Nao,Sim,Sim,1,Nao,Sim,Sim,Sim,76.8,5468.45,2017-04-02,72,Nao,Abril,Atrasado
+Helena Queirós,Feminino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,0,Sim,Sim,Sim,Nao,81.35,233.7,2020-03-19,3,Sim,Março,Atrasado
+Valentina Rocha,Feminino,Sim,DSL,Nao,Nao,2 anos,DebitoAutomatico,Sim,Nao,Sim,Sim,0,Sim,Sim,Sim,Sim,99.15,5720.95,2017-09-09,58,Nao,Setembro,Atrasado
+Heitor Costa,Masculino,Sim,Fibra,Nao,Sim,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,1,Nao,Sim,Nao,Sim,20.35,20.35,2021-11-07,1,Nao,Novembro,Atrasado
+Davi Valle.,Masculino,Nao,Fibra,Sim,Sim,Anual,DebitoAutomatico,Nao,Nao,Sim,Sim,0,Nao,Sim,Nao,Nao,89.85,3161.2,2016-04-04,35,Nao,Abril,Atrasado
+Alice Souza,Feminino,Nao,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,84.4,4116.15,2018-06-04,50,Sim,Junho,Atrasado
+Lucas Cardoso,Masculino,Sim,Fibra,Nao,Nao,Mensal,DebitoAutomatico,Nao,Sim,Nao,Sim,0,Nao,Sim,Sim,Sim,19.75,899.45,2017-03-26,41,Nao,Março,Atrasado
+Pedro Guimarães,Feminino,Sim,Fibra,Nao,Nao,Mensal,DebitoAutomatico,Nao,Nao,Sim,Nao,0,Sim,Sim,Sim,Sim,64.45,4720.0,2019-10-25,72,Nao,Outubro,Atrasado
+Gael Queirós,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoEletronico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Sim,68.95,2038.7,2019-03-04,30,Nao,Março,Atrasado
+Eloa Rocha,Masculino,Sim,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Nao,Nao,Nao,0,Sim,Sim,Sim,Nao,24.4,36.55,2019-01-23,2,Sim,Janeiro,Atrasado
+Arthur Barros,Feminino,Sim,DSL,Nao,Sim,Anual,CartaoCredito,Sim,Nao,Sim,Nao,0,Nao,Sim,Nao,Sim,29.7,438.25,2016-09-27,15,Sim,Setembro,Atrasado
+Alice Siqueira,Feminino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Sim,Nao,Sim,Sim,58.75,2203.1,2016-05-11,37,Nao,Maio,Atrasado
+João Miguel Castro,Masculino,SemTelefone,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Sim,Nao,Nao,0,Nao,Nao,Nao,Sim,75.4,5480.25,2018-07-01,72,Nao,Julho,Atrasado
+Matheus Siqueira,Masculino,Nao,DSL,Sim,Nao,Anual,BoletoImpresso,Sim,Sim,Nao,Nao,0,Sim,Sim,Sim,Sim,25.0,1738.9,2020-07-06,72,Nao,Julho,Atrasado
+Joaquim Cardoso,Masculino,Nao,DSL,Nao,Sim,2 anos,DebitoAutomatico,Sim,Nao,Sim,Sim,0,Sim,Sim,Sim,Sim,114.3,8244.3,2021-07-19,70,Nao,Julho,Atrasado
+Heitor Cardoso,Masculino,Sim,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,19.65,19.65,2019-09-21,1,Sim,Setembro,Atrasado
+Gael Macedo,Masculino,Sim,Fibra,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Sim,Sim,0,Nao,Sim,Sim,Nao,84.25,1968.1,2018-03-21,23,Nao,Março,Atrasado
+Samuel Souza,Feminino,Nao,Nao,SemInternet,SemInternet,Mensal,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,74.6,548.9,2021-06-14,8,Nao,Junho,Atrasado
+Pedro Henrique Souza,Masculino,Sim,Fibra,Nao,Sim,Mensal,BoletoEletronico,Sim,Nao,Nao,Nao,0,Nao,Sim,Sim,Nao,46.0,84.5,2021-07-24,2,Sim,Julho,Atrasado
+Samuel Barros,Feminino,Sim,Fibra,Nao,Nao,Mensal,CartaoCredito,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,38.85,1025.15,2018-08-27,26,Nao,Agosto,Atrasado
+Henrique Valle.,Masculino,Nao,DSL,Nao,Nao,Mensal,CartaoCredito,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,19.65,928.4,2019-01-11,52,Nao,Janeiro,Atrasado
+Júlia Magalhães,Feminino,SemTelefone,DSL,Sim,Sim,Mensal,CartaoCredito,Nao,Sim,Nao,Nao,0,Sim,Nao,Sim,Nao,34.6,813.45,2018-06-12,23,Nao,Junho,Atrasado
+Pedro Henrique Correia,Masculino,Nao,Nao,SemInternet,SemInternet,Anual,CartaoCredito,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Nao,Nao,99.1,1426.4,2019-11-17,15,Sim,Novembro,Atrasado
+Alice Macedo,Feminino,SemTelefone,DSL,Sim,Nao,2 anos,BoletoImpresso,Nao,Sim,Nao,Nao,0,Sim,Nao,Sim,Nao,50.15,2058.5,2020-08-06,40,Nao,Agosto,Atrasado
+Nicolas Campos,Feminino,Nao,Fibra,Sim,Sim,Mensal,CartaoCredito,Nao,Nao,Sim,Sim,0,Nao,Sim,Nao,Sim,59.45,0.0,2020-12-15,27,Nao,Dezembro,Atrasado
+Enzo Gabriel Rocha,Masculino,Nao,DSL,Nao,Sim,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Sim,Sim,Sim,19.5,805.2,2019-12-28,37,Nao,Dezembro,Atrasado
+Isadora Braga,Masculino,Sim,DSL,Nao,Nao,Mensal,BoletoEletronico,Sim,Sim,Nao,Nao,0,Nao,Sim,Nao,Nao,112.2,5031.85,2017-12-26,45,Nao,Dezembro,Atrasado
+Heloísa Macedo,Feminino,Nao,Nao,SemInternet,SemInternet,Mensal,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Nao,69.95,330.15,2017-10-01,5,Sim,Outubro,Atrasado
+Manuela Castro,Masculino,Nao,Fibra,Sim,Sim,Anual,CartaoCredito,Sim,Sim,Sim,Sim,0,Nao,Sim,Nao,Nao,23.85,1672.1,2021-04-29,71,Nao,Abril,Atrasado
+João Miguel Brasil,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Nao,0,Nao,Sim,Sim,Nao,54.3,195.3,2020-02-17,4,Sim,Fevereiro,Atrasado
+Pedro Siqueira,Feminino,Sim,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Sim,Nao,20.2,746.05,2021-11-01,38,Nao,Novembro,Em Dia
+Maria Alice Queirós,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,0,Nao,Sim,Nao,Nao,55.9,157.55,2018-01-29,3,Nao,Janeiro,Atrasado
+Lorenzo Azevedo,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Sim,19.15,343.45,2018-01-07,17,Nao,Janeiro,Atrasado
+Nicolas Macedo,Masculino,Nao,DSL,Sim,Nao,Mensal,BoletoImpresso,Sim,Nao,Nao,Nao,0,Sim,Sim,Nao,Nao,90.15,6237.05,2018-03-18,70,Nao,Março,Atrasado
+Isaac Magalhães,Masculino,Nao,Nao,SemInternet,SemInternet,2 anos,BoletoImpresso,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Nao,44.9,44.9,2018-11-18,1,Nao,Novembro,Atrasado
+Nicolas Fontes,Masculino,Sim,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Sim,100.5,7030.65,2016-05-19,71,Nao,Maio,Atrasado
+Samuel Cardoso,Masculino,Nao,DSL,Nao,Nao,Mensal,BoletoImpresso,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,91.15,3369.25,2017-03-29,37,Nao,Março,Atrasado
+Isabella 9.03 Siqueira,Feminino,Sim,Fibra,Sim,Sim,2 anos,DebitoAutomatico,Sim,Nao,Sim,Nao,0,Sim,Sim,Sim,Nao,70.15,4480.7,2017-03-07,64,Nao,Março,Atrasado
+João Miguel Macedo,Masculino,Sim,Fibra,Sim,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Nao,0,Nao,Sim,Nao,Sim,90.0,3371.75,2020-12-17,37,Nao,Dezembro,Atrasado
+Bernardo Serra,Masculino,Sim,DSL,Nao,Sim,Anual,BoletoImpresso,Nao,Sim,Nao,Sim,0,Nao,Sim,Sim,Sim,108.65,6937.95,2021-06-09,65,Sim,Junho,Atrasado
+Heitor Siqueira,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Sim,Sim,Sim,Nao,1,Nao,Sim,Sim,Nao,49.45,1119.35,2016-02-02,23,Nao,Fevereiro,Atrasado
+Maria Cecília Magalhães,Masculino,Sim,Fibra,Sim,Nao,2 anos,DebitoAutomatico,Sim,Sim,Sim,Sim,0,Sim,Sim,Sim,Nao,79.2,1742.75,2020-07-03,22,Sim,Julho,Atrasado
+Lívia Queirós,Feminino,Nao,DSL,Nao,Nao,Anual,BoletoEletronico,Nao,Sim,Nao,Nao,0,Sim,Sim,Nao,Sim,60.7,1597.4,2016-06-17,26,Nao,Junho,Atrasado
+Arthur Teixeira,Feminino,Sim,DSL,Sim,Nao,Mensal,BoletoEletronico,Nao,Sim,Sim,Sim,0,Nao,Sim,Sim,Sim,79.85,2015.35,2021-01-04,25,Sim,Janeiro,Atrasado
+Gabriel Matos,Feminino,Nao,DSL,Nao,Nao,Anual,BoletoImpresso,Sim,Nao,Nao,Sim,1,Nao,Sim,Sim,Nao,97.2,5611.75,2021-09-29,60,Nao,Setembro,Atrasado
+Isadora Azevedo,Feminino,Nao,Fibra,Sim,Sim,Mensal,DebitoAutomatico,Nao,Nao,Nao,Nao,0,Nao,Sim,Nao,Sim,95.6,95.6,2019-10-05,1,Sim,Outubro,Atrasado
+Gael Braga,Feminino,Nao,Fibra,Sim,Nao,2 anos,BoletoEletronico,Nao,Sim,Sim,Sim,0,Nao,Sim,Sim,Sim,89.3,6388.65,2020-12-07,71,Nao,Dezembro,Atrasado
+Maria Luiza Braga,Feminino,Nao,Fibra,Sim,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,0,Nao,Sim,Nao,Sim,85.25,2287.25,2021-01-20,27,Sim,Janeiro,Atrasado
+Henrique Magalhães,Feminino,Sim,DSL,Sim,Sim,2 anos,CartaoCredito,Sim,Sim,Sim,Sim,0,Nao,Sim,Sim,Nao,89.45,240.45,2017-05-28,3,Sim,Maio,Atrasado
+Gabriel Teixeira,Feminino,Sim,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Nao,Sim,1,Nao,Sim,Nao,Sim,94.7,5430.35,2020-12-26,58,Nao,Dezembro,Atrasado
+Benício Cardoso,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Nao,Nao,Sim,Sim,0,Nao,Sim,Nao,Sim,75.35,1025.95,2016-06-04,14,Sim,Junho,Atrasado
+Maria Clara Pedreira,Masculino,Sim,Fibra,Nao,Sim,Anual,CartaoCredito,Nao,Sim,Sim,Nao,0,Sim,Sim,Sim,Sim,70.85,4973.4,2021-12-10,71,Nao,Dezembro,Atrasado
+Miguel Serra,Feminino,Nao,Fibra,Nao,Nao,Mensal,BoletoEletronico,Sim,Nao,Nao,Nao,0,Nao,Sim,Nao,Nao,29.05,44.75,2017-09-13,2,Nao,Setembro,Atrasado
+Lorena Braga,Masculino,Nao,DSL,Sim,Nao,2 anos,CartaoCredito,Sim,Sim,Nao,Sim,0,Sim,Sim,Sim,Sim,20.6,827.3,2018-04-28,40,Nao,Abril,Atrasado
+Arthur Guimarães,Feminino,SemTelefone,DSL,Nao,Nao,Mensal,DebitoAutomatico,Nao,Sim,Nao,Nao,0,Sim,Nao,Sim,Nao,25.4,1620.2,2020-04-24,68,Nao,Abril,Atrasado
+Maria Júlia Campos,Feminino,Nao,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Nao,Sim,Nao,Sim,101.3,5779.6,2020-09-28,57,Nao,Setembro,Atrasado
+Sophia Guimarães,Masculino,Sim,Nao,SemInternet,SemInternet,2 anos,DebitoAutomatico,SemInternet,SemInternet,SemInternet,SemInternet,0,Sim,Sim,Sim,Nao,87.25,3941.7,2019-09-09,45,Sim,Setembro,Atrasado
+Lorena Teixeira,Feminino,Sim,Fibra,Sim,Nao,2 anos,CartaoCredito,Sim,Sim,Nao,Sim,1,Nao,Sim,Nao,Nao,116.55,8152.3,2017-12-15,70,Nao,Dezembro,Atrasado
