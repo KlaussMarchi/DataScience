@@ -1,0 +1,16 @@
+[
+    {
+        "tag": "como",
+        "patterns": [
+            "Como você está?", "Como vai você?", "Como está sua semana?", "Como tem passado?", "Como está sua disposição hoje?", "Como está o clima por aí?", "Como estão os estudos?", "Como está o trabalho?", "Como está sua criatividade?", "Como estão os planos para o dia?", "Como posso colaborar?", "Como está sua motivação?", "Como foi o final de semana?", "Como está o progresso nos projetos?", "Como posso te ajudar hoje?", "Como estão suas metas para o mês?", "Como posso facilitar algo para você?"
+        ],
+        "responses": ["Estou bem, obrigado por perguntar!", "Me sinto ótimo, obrigado por perguntar!", "Estou aqui para ajudar com o que precisar!"]
+    },
+    {
+        "tag": "piada",
+        "patterns": [
+            "Conte uma piada!", "Me faça rir", "Qual é a piada do dia?", "Tem alguma piada para me contar?", "Me conte algo engraçado", "Qual é sua melhor piada?", "Conte-me algo divertido", "Quero ouvir uma piada", "Tem piadas novas para hoje?", "Me anima com uma piada engraçada"
+        ],
+        "responses": ["Por que o livro de matemática ficou triste? Porque tinha muitos problemas!", "O que o tomate foi fazer no banco? Tirar um extrato!", "Por que o computador foi ao médico? Porque estava com vírus!", "Como o químico sabe que uma piada é boa? Quando tem uma reação!", "Por que o cientista disse para o átomo? 'Fique positivo!'"]
+    }
+]
