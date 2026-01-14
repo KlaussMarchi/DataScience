@@ -1,0 +1,38 @@
+{
+    "model": "logistic_regression",
+    "params": {
+        "C": 10,
+        "class_weight": null,
+        "dual": false,
+        "fit_intercept": true,
+        "intercept_scaling": 1,
+        "l1_ratio": null,
+        "max_iter": 3000,
+        "multi_class": "deprecated",
+        "n_jobs": null,
+        "penalty": "l1",
+        "random_state": null,
+        "solver": "liblinear",
+        "tol": 0.0001,
+        "verbose": 0,
+        "warm_start": false
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7917934053541089,
+        "precision": 0.6491623093696899,
+        "recall": 0.4697187614992378,
+        "specificity": 0.9081368417446122,
+        "auc": 0.8211431232952947
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}

@@ -1,9 +1,0 @@
-[
-    {
-        "tag": "sighir",
-        "patterns": [
-            "O que é a Sighir?", "Me fale sobre a Sighir", "Você conhece a Sighir?", "Qual é a área de atuação da Sighir?", "A Sighir trabalha com o que?", "Quais são os produtos da Sighir?", "Onde a Sighir opera?", "Qual é a missão da Sighir?", "Como funciona a Sighir?", "O que torna a Sighir especial?"
-        ],
-        "responses": ["A Sighir é uma startup focada em soluções de tecnologia, como o etilômetro veicular.", "A Sighir trabalha com inovação tecnológica.", "A Sighir é uma empresa brasileira reconhecida por seus projetos no setor de tecnologia!"]
-    }
-]

@@ -1,0 +1,31 @@
+{
+    "model": "knn",
+    "params": {
+        "algorithm": "auto",
+        "leaf_size": 30,
+        "metric": "euclidean",
+        "metric_params": null,
+        "n_jobs": null,
+        "n_neighbors": 9,
+        "p": 2,
+        "weights": "uniform"
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7807231716562358,
+        "precision": 0.6126425331681183,
+        "recall": 0.47383688644846184,
+        "specificity": 0.8915794453944316,
+        "auc": 0.7968226171382627
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}

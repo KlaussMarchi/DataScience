@@ -1,0 +1,36 @@
+{
+    "model": "decision_tree",
+    "params": {
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "entropy",
+        "max_depth": 10,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 42,
+        "splitter": "best"
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7673385110867368,
+        "precision": 0.5769998311413499,
+        "recall": 0.46973706470158133,
+        "specificity": 0.8748425918139147,
+        "auc": 0.7670201617455922
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}

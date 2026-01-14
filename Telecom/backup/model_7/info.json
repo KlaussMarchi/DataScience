@@ -1,0 +1,25 @@
+{
+    "model": "naive_bayes",
+    "params": {
+        "priors": null,
+        "var_smoothing": 1e-09
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7610111102598017,
+        "precision": 0.5455480013118088,
+        "recall": 0.5981471233387335,
+        "specificity": 0.8198425949286265,
+        "auc": 0.8034148001552848
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}

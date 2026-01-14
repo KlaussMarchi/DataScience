@@ -1,0 +1,42 @@
+{
+    "model": "random_forest",
+    "params": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 10,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 500,
+        "n_jobs": null,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7980734812192185,
+        "precision": 0.67003430014405,
+        "recall": 0.4720847968726852,
+        "specificity": 0.9158290023266897,
+        "auc": 0.8277051970837206
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}

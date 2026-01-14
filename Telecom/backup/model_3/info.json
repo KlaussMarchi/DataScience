@@ -1,0 +1,38 @@
+{
+    "model": "svm",
+    "params": {
+        "C": 1,
+        "break_ties": false,
+        "cache_size": 200,
+        "class_weight": null,
+        "coef0": 0.0,
+        "decision_function_shape": "ovr",
+        "degree": 3,
+        "gamma": "scale",
+        "kernel": "linear",
+        "max_iter": -1,
+        "probability": true,
+        "random_state": 42,
+        "shrinking": true,
+        "tol": 0.001,
+        "verbose": false
+    },
+    "K_CV": 5,
+    "results": {
+        "accuracy": 0.7843013662171755,
+        "precision": 0.6175393532923312,
+        "recall": 0.4930968253740688,
+        "specificity": 0.8894927193613593,
+        "auc": 0.8128059208559999
+    },
+    "padronization": {
+        "tenure": {
+            "mean": 32.37114865824223,
+            "std": 24.55948102309423
+        },
+        "MonthlyCharges": {
+            "mean": 64.76169246059918,
+            "std": 30.09004709767854
+        }
+    }
+}
