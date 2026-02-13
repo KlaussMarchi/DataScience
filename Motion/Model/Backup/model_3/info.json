@@ -1,0 +1,38 @@
+{
+    "model":"linear_regression",
+    "params":{
+        "memory":"None",
+        "steps":"[('scaler', StandardScaler()), ('model', LinearRegression(fit_intercept=False))]",
+        "transform_input":"None",
+        "verbose":"False",
+        "scaler":"StandardScaler()",
+        "model":"LinearRegression(fit_intercept=False)",
+        "scaler__copy":"True",
+        "scaler__with_mean":"True",
+        "scaler__with_std":"True",
+        "model__copy_X":"True",
+        "model__fit_intercept":"False",
+        "model__n_jobs":"None",
+        "model__positive":"False",
+        "model__tol":"1e-06"
+    },
+    "K_CV":5,
+    "variables":[
+        "wx",
+        "wx(n-1)",
+        "wx(n-2)",
+        "wx(n-3)",
+        "wx(n-4)",
+        "wx(n-5)",
+        "wx(n-6)",
+        "wx(n-7)",
+        "wx(n-8)",
+        "wx(n-9)"
+    ],
+    "info":{
+        "r2":0.821345545,
+        "r2_adj":0.821041297,
+        "rmse":1.9761433464,
+        "mae":1.4423906083
+    }
+}
