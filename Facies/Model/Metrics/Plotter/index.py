@@ -3,7 +3,7 @@ import numpy as np
 
 
 class Plotter:
-    def __init__(self, metrics, limits=None):
+    def __init__(self, metrics, limits=(0, 1.10), title='Metric Analysis'):
         keys = list(metrics.keys())
         values = list(metrics.values())
         n      = len(metrics)
@@ -11,7 +11,7 @@ class Plotter:
         bars = plt.bar(keys, values, color=colors)
         
         plt.grid(axis='y', alpha=0.3, linestyle='--')
-        plt.title('Metric Analysis')
+        plt.title(title)
         
         if limits:
             plt.ylim(limits)
@@ -23,6 +23,9 @@ class Plotter:
             plt.text(
                 bar.get_x() + bar.get_width() / 2., # Posição X (centro da barra)
                 height + offset,                    # Posição Y (topo da barra + respiro)
-                f'{height:.2f}',                    # O texto (valor formatado)
+                f'{height:.3f}',                    # O texto (valor formatado)
                 ha='center', va='bottom', fontsize=11, fontweight='bold', color='black'
             )
+
+        if len(keys) >= 4:
+            plt.xticks(rotation=45, ha='right')

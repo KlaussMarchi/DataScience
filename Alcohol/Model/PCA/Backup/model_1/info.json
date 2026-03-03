@@ -1,0 +1,57 @@
+{
+    "model":"knn",
+    "params":{
+        "memory":"None",
+        "steps":"[('scaler', StandardScaler()), ('model', KNeighborsClassifier(metric='manhattan', n_neighbors=15, weights='distance'))]",
+        "transform_input":"None",
+        "verbose":"False",
+        "scaler":"StandardScaler()",
+        "model":"KNeighborsClassifier(metric='manhattan', n_neighbors=15, weights='distance')",
+        "scaler__copy":"True",
+        "scaler__with_mean":"True",
+        "scaler__with_std":"True",
+        "model__algorithm":"auto",
+        "model__leaf_size":"30",
+        "model__metric":"manhattan",
+        "model__metric_params":"None",
+        "model__n_jobs":"None",
+        "model__n_neighbors":"15",
+        "model__p":"2",
+        "model__weights":"distance"
+    },
+    "K_CV":5,
+    "info":{
+        "accuracy":0.9603407643,
+        "precision":0.9617653746,
+        "recall":0.9603407643,
+        "auc":0.9942978875
+    },
+    "thresholds":[
+        {
+            "class":false,
+            "treshold":1.0
+        },
+        {
+            "class":true,
+            "treshold":1.0
+        }
+    ],
+    "variables":[
+        "decay",
+        "min",
+        "mean_diff",
+        "mean",
+        "median",
+        "last",
+        "amplitude",
+        "std",
+        "rise",
+        "min_diff",
+        "max_diff",
+        "max",
+        "first_diff",
+        "median_diff",
+        "std_diff",
+        "first"
+    ]
+}
