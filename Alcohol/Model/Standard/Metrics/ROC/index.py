@@ -52,7 +52,7 @@ class RocCurve:
         mean_tpr     = np.mean(self.tprs, axis=0)
         mean_tpr[-1] = 1.0 # Garante fim no 1
         
-        plt.plot(self.mean_fpr, mean_tpr, color='darkorange', lw=2, label=f'Mean ROC (AUC = {self.auc:.2f} ± {self.std:.2f})')
+        plt.plot(self.mean_fpr, mean_tpr, color='darkorange', lw=2, label=f'Mean ROC (AUC = {self.auc:.3f} ± {self.std:.3f})')
         plt.plot([0, 1], [0, 1], linestyle='--', color='navy', lw=2)
         plt.xlim([-0.01, 1.01]); plt.ylim([-0.01, 1.01])
         plt.xlabel('False Positive Rate')

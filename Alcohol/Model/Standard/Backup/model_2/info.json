@@ -1,51 +1,47 @@
 {
-    "model":"random_forest",
+    "model":"logistic_regression",
     "folder":"model_2",
     "params":{
         "memory":"None",
-        "steps":"[('scaler', StandardScaler()), ('model', RandomForestClassifier(min_samples_leaf=2, random_state=42))]",
+        "steps":"[('scaler', StandardScaler()), ('model', LogisticRegression(C=7, max_iter=200, solver='saga'))]",
         "transform_input":"None",
         "verbose":"False",
         "scaler":"StandardScaler()",
-        "model":"RandomForestClassifier(min_samples_leaf=2, random_state=42)",
+        "model":"LogisticRegression(C=7, max_iter=200, solver='saga')",
         "scaler__copy":"True",
         "scaler__with_mean":"True",
         "scaler__with_std":"True",
-        "model__bootstrap":"True",
-        "model__ccp_alpha":"0.0",
+        "model__C":"7",
         "model__class_weight":"None",
-        "model__criterion":"gini",
-        "model__max_depth":"None",
-        "model__max_features":"sqrt",
-        "model__max_leaf_nodes":"None",
-        "model__max_samples":"None",
-        "model__min_impurity_decrease":"0.0",
-        "model__min_samples_leaf":"2",
-        "model__min_samples_split":"2",
-        "model__min_weight_fraction_leaf":"0.0",
-        "model__monotonic_cst":"None",
-        "model__n_estimators":"100",
+        "model__dual":"False",
+        "model__fit_intercept":"True",
+        "model__intercept_scaling":"1",
+        "model__l1_ratio":"None",
+        "model__max_iter":"200",
+        "model__multi_class":"deprecated",
         "model__n_jobs":"None",
-        "model__oob_score":"False",
-        "model__random_state":"42",
+        "model__penalty":"l2",
+        "model__random_state":"None",
+        "model__solver":"saga",
+        "model__tol":"0.0001",
         "model__verbose":"0",
         "model__warm_start":"False"
     },
     "K_CV":5,
     "info":{
-        "accuracy":0.9739364752,
-        "precision":0.9742140786,
-        "recall":0.9739364752,
-        "auc":0.996181213
+        "accuracy":0.9608551618,
+        "precision":0.9612389153,
+        "recall":0.9608551618,
+        "auc":0.9945602477
     },
     "thresholds":[
         {
             "class":false,
-            "treshold":0.5380833333
+            "treshold":0.497007577
         },
         {
             "class":true,
-            "treshold":0.5675
+            "treshold":0.5313091117
         }
     ],
     "variables":[
@@ -58,8 +54,8 @@
         "amplitude",
         "std",
         "rise",
-        "min_diff",
         "max_diff",
+        "min_diff",
         "max",
         "first_diff",
         "median_diff",
