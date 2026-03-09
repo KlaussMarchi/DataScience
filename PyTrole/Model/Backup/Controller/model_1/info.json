@@ -1,0 +1,47 @@
+{
+    "model":"random_forest",
+    "params":{
+        "memory":"None",
+        "steps":"[('scaler', StandardScaler()), ('model', RandomForestRegressor(min_samples_leaf=4, min_samples_split=10,\n                      n_estimators=300, random_state=42))]",
+        "transform_input":"None",
+        "verbose":"False",
+        "scaler":"StandardScaler()",
+        "model":"RandomForestRegressor(min_samples_leaf=4, min_samples_split=10,\n                      n_estimators=300, random_state=42)",
+        "scaler__copy":"True",
+        "scaler__with_mean":"True",
+        "scaler__with_std":"True",
+        "model__bootstrap":"True",
+        "model__ccp_alpha":"0.0",
+        "model__criterion":"squared_error",
+        "model__max_depth":"None",
+        "model__max_features":"1.0",
+        "model__max_leaf_nodes":"None",
+        "model__max_samples":"None",
+        "model__min_impurity_decrease":"0.0",
+        "model__min_samples_leaf":"4",
+        "model__min_samples_split":"10",
+        "model__min_weight_fraction_leaf":"0.0",
+        "model__monotonic_cst":"None",
+        "model__n_estimators":"300",
+        "model__n_jobs":"None",
+        "model__oob_score":"False",
+        "model__random_state":"42",
+        "model__verbose":"0",
+        "model__warm_start":"False"
+    },
+    "K_CV":5,
+    "info":{
+        "r2":0.4000465717,
+        "r2_adj":0.3898778695,
+        "rmse":17.8008334685,
+        "mae":4.9466757198
+    },
+    "variables":[
+        "u(n-1)",
+        "u(n-2)",
+        "x",
+        "x(n-1)",
+        "x(n-2)",
+        "error"
+    ]
+}
