@@ -1,0 +1,41 @@
+{
+    "model":"ridge",
+    "params":{
+        "memory":"None",
+        "steps":"[('scaler', StandardScaler()), ('model', Ridge(alpha=0.01))]",
+        "transform_input":"None",
+        "verbose":"False",
+        "scaler":"StandardScaler()",
+        "model":"Ridge(alpha=0.01)",
+        "scaler__copy":"True",
+        "scaler__with_mean":"True",
+        "scaler__with_std":"True",
+        "model__alpha":"0.01",
+        "model__copy_X":"True",
+        "model__fit_intercept":"True",
+        "model__max_iter":"None",
+        "model__positive":"False",
+        "model__random_state":"None",
+        "model__solver":"auto",
+        "model__tol":"0.0001"
+    },
+    "K_CV":5,
+    "info":{
+        "r2":1.0,
+        "r2_adj":1.0,
+        "rmse":0.0000907994,
+        "mae":0.0000430632
+    },
+    "variables":[
+        "u(n-1)",
+        "u(n-2)",
+        "u(n-3)",
+        "u(n-4)",
+        "x(n-1)",
+        "x(n-2)",
+        "x(n-3)",
+        "x(n-4)",
+        "error_integral",
+        "setpoint"
+    ]
+}
